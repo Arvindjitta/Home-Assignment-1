@@ -38,5 +38,5 @@ The code is written in Python using TensorFlow and is provided in Jupyter Notebo
 
 ## Video Submission
 
-Video demonstrating the code and explaining the results is included in the submission.
+Video demonstrating the code and explaining the results.
 [Video Link:](https://drive.google.com/file/d/1qZbjnkaJpCSQJPMcuOp4be4oHtIPcGUx/view?usp=sharing)
